@@ -61,11 +61,13 @@ function update() {
         ringSize: G.RADIUS + 10
       })
       decreaseSize = 0;
+      play("select");
       return ring.isColliding.rect.red;
     }
   })
 
   if (decreaseSize > G.RADIUS + 10) {
+    play("hit")
     end("Game Over");
   }
 }
