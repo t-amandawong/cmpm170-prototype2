@@ -1,5 +1,6 @@
 # CMPM 170 - Prototype 2
-https://t-amandawong.github.io/cmpm170-prototype2/
+
+Play here: https://t-amandawong.github.io/cmpm170-prototype2/.
 
 This game was made using the [crisp-game-lib by Kenta Cho] (https://github.com/abagames/crisp-game-lib).
 
